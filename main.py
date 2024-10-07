@@ -37,16 +37,6 @@ def main():
     else: 
         print("Das funktioniert nicht. Bitte wähle zwischen norden, osten, süden ,westen oder verlassen")
 
-   
-
-    
-
-
-
-
-
-
-
     def enter_room(room):
         if room == "Raum 1":
             print("Eine geheimnissvolle Stimme ertönt! Lausche Ihr um das erste Rätsel zu lösen!")
